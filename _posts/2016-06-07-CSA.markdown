@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "컴퓨터 시스템 기초설계"
+date:   2016-06-07 01:51:00 +0900
+categories: Computer
+author: "임 형 준"
+---
+
+
+ 컴퓨터 시스템 기초설계에서 TERM PROJECT 하면서 만들어본 첫 번째 블로그입니다.
